@@ -38,3 +38,9 @@ Only the appropriate and authorized users are able to access given data.
 Modify IP addresses in the project files to access by angular client project
 
 *** Additional descripion about the project is on the 'about' page in the related client project. ***
+
+## Copyright and usage
+
+Copyright (c) 2024 LoginMatthew. All rights reserved.
+
+This repository is published for portfolio and viewing purposes. No license is granted to copy, modify, distribute, or otherwise reuse the project. Public GitHub repositories may still be viewed and forked through GitHub as allowed by GitHub's Terms of Service. Third-party components remain subject to their respective licenses.
